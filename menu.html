@@ -1,0 +1,884 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+     <title>Gurkha-Oven</title>
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.4.0/animate.css">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <style>
+      body {
+ /* height: 100%;*/
+  width: 100%;
+  overflow: auto; 
+}
+      
+        html{
+          font-size: 14px;
+         overflow:auto;
+         height:100%;
+        }
+        h1{
+          font-size: 3rem;
+       
+        }
+        h2{
+         font-size: 2.4em
+        }
+        h3{
+          font-size: 1.8rem;
+        }
+        h4{
+          font-size: 1.3rem;
+        }
+        p{
+          font-size: 2.4rem;
+          font-size: 1rem;
+        }
+        
+     
+        @media screen and (min-width:1000px) and (max-width:1200px){
+        
+         
+			 div.brand-navs ul.navs1 {
+                  margin-left: 2%;
+                 margin-top: 40px;
+            }
+           
+           div.footer{
+           height:145px;
+           } 
+        div.mini-navs ul {
+    margin-left: 250%;
+}
+   div.IT-grid{
+             padding: 50px 10px 0px 10px;
+   } 
+   div.IT-grid1,div.IT-grid2,div.IT-grid3 {  
+   width:auto;        
+        }
+        div.IT-grids {
+        padding: 80px 80px 0px 80px;
+        
+        }
+     }  
+	    @media screen and (max-width:767px){
+	    div.mini-navs ul{
+          display:none;
+		  }
+		  }
+	   
+       @media screen and (max-width:999px){
+
+      
+	       
+	  .navbar{
+	      height:260px;
+          background-repeat: no-repeat;
+          background-size:cover;
+            background-image: url("images/food.jpg");
+       
+		
+        }
+       
+	  a:hover{
+color:tomato !important;
+        }
+
+		  .brand-logo img {
+    max-height: 70px!important;
+    margin: 0 12px 0 12px!important;
+   -webkit-filter: opacity(.5) drop-shadow(0 0 0 wine);
+  filter: opacity(.5) drop-shadow(0 0 0 wine);
+
+}
+		.nav {
+	
+		}
+	
+		.mini-nav{
+             
+              height:40px;
+              background-color:	#404040;
+              position: sticky;
+              width:100%;
+            }
+        .mini-nav ul{
+          display:flex;
+          flex-direction: row; 
+		   padding:6px;
+		       margin-top: -7px;
+           padding-left:1%;		  
+        }
+        .mini-nav ul li{
+          padding:6px;
+         color:white;
+        }
+        .mini-nav ul li a{
+          font-size: 14px;
+		  color:white;
+        }
+		 .mini-navs ul{
+          display:flex;
+          flex-direction: row; 
+		   padding:6px;
+           margin-left:120%;		  
+        }
+		 .mini-navs ul li{
+          padding:6px;
+        color: greenyellow;
+        }
+		
+	.mini-nav .material-icons{
+            color:tomato;
+         } 
+
+	
+        .navs1,.navs2,.navs3{
+       display:none;   
+        }
+        .brand-navs{
+        border-bottom: 2px solid red;
+       text-align: center;
+       height: 60px;
+    margin-top: -70px;
+            }
+           
+			
+			div.extra-navs{
+			margin-top:20px;
+			}
+        .extra-navs a{
+          color:yellow !important;
+		  margin:0 12px 0 12px;
+         }
+		  .extra-navs a:hover{
+          color:tomato !important;
+		  text-decoration:underline;
+		 
+         }
+		 
+       .nav-toogle:checked ~ .navi{
+      display:block;
+       }
+	   
+	   .big-text{
+	   margin-bottom:2px;
+	   margin-top:50px;
+	   }
+        
+		.big-text h1{
+		font-size:33px;
+		color:white;
+		font-style:italic;
+		 margin:18px 12px 0 45px;
+		}
+		 .waves-effect.waves-light.btn{
+	  margin-top:17px;
+	  color:green;
+	  background-color:wheat;
+	  }	 
+      .more-text{
+		 margin:0 12px 0 12px;
+		 margin-top:16px;
+       }
+	   
+	   .more-text p{  
+		font-size:25px;
+		font-style:italic;
+		color:white;
+		 margin:0 0 0 12px;
+       }
+	   
+	   .more-button{
+	   padding:0 10px 0 10px;
+	   }
+	   
+       .navi{
+       display:none;
+       position: absolute;
+       width:100%;
+       background-color: green;
+	   margin-top:4px;
+        z-index:1;
+         }
+         .navi li{
+          text-align: center;
+		   margin-top: 2px;
+		       padding: 10px 0 0 0;
+           height: 50px;
+         }
+         .navi li:hover{
+          background-color: tomato;
+          font-size:18px;
+         }
+         .navi li a{
+          color:whitesmoke !important;
+         }
+       label{
+      position:absolute;
+      margin:35px 15px 0 -20px;
+      color: navy;
+       }
+       
+         div.more-text p{
+		margin-top:-3px;
+		font-size:1.1rem;
+		}
+        div.IT{ 
+          margin-top:-18px;
+		  padding-top: 18px;
+		   background-color:#F8F9F9; 
+        height:auto;
+       
+        }
+		div.IT-grid{
+        padding: 0 12px 0 12px;
+    margin: 12px 10px 0 10px;
+         display:block;
+        
+        }
+div.IT-grids{
+        padding: 0 12px 0 12px;
+    margin: 12px 10px 0 10px;
+         display:block;		 
+        }		
+     
+	
+	div.IT-grid1 {
+	  background-image: url("images/crab.jpg");
+    border: 1px solid #9ea8a6;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    height: 270px;
+	width:auto;
+	margin-bottom: 30px;
+	display:flex;
+    justify-content: center;
+    flex-flow: column;
+	 padding:0 10px 0 10px;
+    align-items: center;
+	 background-size: 100% 100%;
+}
+div.IT-grid2 {
+ background-image: url("images/group.jpg");
+    border: 1px solid #9ea8a6;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    height: 270px;
+	width:auto;
+	margin-bottom: 30px;
+	display:flex;
+    justify-content: center;
+    flex-flow: column;
+	 padding:0 10px 0 10px;
+    align-items: center;
+	 background-size: 100% 100%;
+	
+}
+div.IT-grid3 {
+ background-image: url("images/desert.jpg");
+    border: 1px solid #9ea8a6;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    height: 270px;
+	width:auto;
+	margin-bottom: 30px;
+	display:flex;
+	 background-size: 100% 100%;
+    justify-content: center;
+    flex-flow: column;
+	 padding:0 10px 0 10px;
+    align-items: center;
+}
+div.IT-grid4 {
+ background-image: url("images/cocktail.jpg");
+    border: 1px solid #9ea8a6;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    height: 270px;
+	width:auto;
+	display:flex;
+	margin-bottom: 30px;
+    justify-content: center;
+    flex-flow: column;
+	 padding:0 10px 0 10px;
+    align-items: center;
+	 background-size: 100% 100%;
+}
+div.IT-grid5 {
+ background-image: url("images/cocktails.jpg");
+    border: 1px solid #9ea8a6;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    height: 270px;
+	width:auto;
+	margin-bottom: 30px;
+	display:flex;
+    justify-content: center;
+    flex-flow: column;
+	 padding:0 10px 0 10px;
+    align-items: center;
+	 background-size: 100% 100%;
+}
+    
+   
+ 
+ i.tiny.material-icons{
+	 color:white;
+	 font-size:25px;
+	 }
+      div.find-location {
+	   background-repeat: no-repeat;
+          background-size:cover;
+    height: 250px;
+    margin-top: -5px;
+     }  
+          			   
+    div.role-text h3 {
+    color:tomato;
+    font-size: 20px;
+}  
+div.IT h5 {
+    padding: 0px 12px 0px 12px;
+    font-size: 15px;
+    font-style: italic;
+    color: green;
+}  
+div.IT-grid1 h5{
+	  color:tomato;
+   margin-top:310px;
+   }
+   div.IT-grid2 h5{
+	  color:tomato;
+   margin-top:310px;
+   }
+   div.IT-grid3 h5{
+	  color:tomato;
+   margin-top:310px;
+   } 
+  div.IT-grid4 h5{
+	  color:tomato;
+   margin-top:310px;
+   }
+ div.IT-grid5 h5{
+	  color:tomato;
+   margin-top:310px;
+   }   
+  
+	 
+      .footer{
+
+background-color:tomato;
+
+}
+div.footer {
+    display: block;
+	}
+div.footer1{
+display:block;
+padding: 25px 60px 15px 30px; 
+}
+div.foot1,div.foot2,div.foot3,div.foot4{
+display:block;
+color:white;
+}
+
+.footer li{
+line-height: 2.2rem;
+}
+.headings{
+color:orange;
+}
+div.footer2{
+display:block;
+color:whitesmoke;
+}
+
+div.footer2 ul {
+    display: flex;
+    flex-flow: row;
+    padding: 0 45px 0 27px;
+}
+div.footer2-logo{
+  margin: 20px 0 0 30px;
+}
+
+.footer2-text li{
+  padding:0 5px 0 5px ;
+}
+div.footer2-social{
+  margin: 0px 0 0px -20px;
+ 
+}
+div.footer2-text li a {
+    border-right: 1px solid black;
+    padding: 0 5px 0 1px;
+    color: whitesmoke !important;
+}
+.footer2-social ul{
+  margin: 0px 0 0px 20px;
+  display:flex;
+}
+
+.footer2-social li a{
+ 
+  padding:0 5px 0 5px;
+  color:whitesmoke !important;
+}
+.footer2-social li{
+  padding:0 5px 0 5px ;
+}
+}
+        @media screen and (min-width:1000px) {
+        
+        .navbar{
+          background-image: url("images/food.jpg");
+          height:450px;
+		  color:green;
+		  background-repeat: no-repeat;
+          background-size: cover;
+		  opacity:0.7;
+        }
+        
+        .navs1{
+          list-style-type: none;
+          display: flex;
+          
+        }
+	 a:hover{
+            color:tomato !important;
+        }
+        .brand-navs{
+        border-bottom: 2px solid red;
+          display:flex;
+          margin:0 0 0 60px;
+            }
+			
+			.mini-nav .material-icons{
+            color:tomato;
+                   }
+           .brand-logo img {
+    max-height: 120px!important;
+    padding: 0!important;
+   -webkit-filter: opacity(.5) drop-shadow(0 0 0 wine);
+  filter: opacity(.5) drop-shadow(0 0 0 wine);
+
+}
+
+			
+			
+        .navs1{
+          margin-left:15%;
+		  margin-top:40px;
+        }
+		
+        .navs1 li{
+          padding:25px;
+        }
+       
+		.big-text h1{
+		font-size:65px;
+		 color:white;
+		 font-style:italic;
+		
+		}
+		
+        .big-text{
+          margin:100px 0 80px 80px;
+		 
+        }
+       .learn-more{
+         display:grid;
+         grid-template-columns: 3fr 1fr;
+         margin:10px 30px 0px 80px;
+       }
+       .navi{
+       display: none;
+        
+       }
+	   .material-icons {
+	   color:black;
+	   }
+	   .navs1 li a:hover{
+          color:#FF4500 !important;
+		  text-decoration:underline;
+		 
+         }
+		 
+	    .navs1 li a{
+          color:white!important;
+		  font-style:bold;
+		 font-size:18px;
+		 
+         }
+		  
+	   
+		 
+		  .mini-nav{
+              margin-top:-14px;
+              height:45px;
+              background-color:	#404040;
+              position: sticky;
+              width:100%;
+            }
+        .mini-nav ul{
+          display:flex;
+          flex-direction: row; 
+		   padding:6px;
+           padding-left:1%;		  
+        }
+        .mini-nav ul li{
+          padding:6px;
+         color:white;
+        }
+        .mini-nav ul li a{
+          font-size: 14px;
+		  color:white;
+        }
+		 .mini-navs ul{
+          display:flex;
+          flex-direction: row; 
+		   padding:6px;
+           margin-left:370%;		  
+        }
+		 .mini-navs ul li{
+          padding:6px;
+        color: greenyellow;
+        }
+		 
+       .nav-toogle{
+      
+       }
+       label{
+      opacity:0;
+       }
+	 .more-text p{
+	 font-size:20px;
+	 font-style:italic;
+	 margin-top:-43px;
+	 color:white;
+	 }
+     .waves-effect.waves-light.btn{
+	  margin-top:17px;
+	  color:green;
+	  background-color:wheat;
+	  }
+       
+      
+       .role-text{
+ 
+  padding: 100px 15px 15px ;
+}
+ .role-text p{
+ color:green;
+ font-style:italic;
+ font-size:17px;
+  padding: 0 85px 25px 85px ;
+}
+.role-text h3{
+color:tomato;
+font-size:25px;
+margin-top:-17px;
+}
+  .role-text h4{
+  color:lightgreen;
+  }
+ 
+ .IT{
+          height:1170px;
+          background-color:#F8F9F9;  
+         
+        
+        }
+		
+        .IT h5{
+          padding:50px 75px 0px 75px;
+		  font-size:18px;
+		  color:green;
+		  font-style:italic;
+		  margin-top:-60px;
+        }
+        .IT-grid{
+          display:grid;
+          grid-template-columns: 1fr 1fr 1fr;
+         padding:50px 90px 0px 90px;
+          
+        }
+		.IT-grids{
+          display:grid;
+          grid-template-columns:  1fr 1fr;
+         padding:80px 220px 0px 250px;
+          
+        }
+	
+		.IT-grid2{	
+		 background-image: url("images/group.jpg");
+		 border: 1px solid 	#9ea8a6;
+         height:370px;
+		 width:370px;
+         display:flex;
+         justify-content: center;
+         flex-flow: column;
+         align-items:center;
+         background-size: cover;
+		}
+         .IT-grid1{ 
+		  background-image: url("images/crab.jpg");
+         border: 1px solid 	#9ea8a6;
+         height:370px;
+		 width:370px;
+         display:flex;
+         justify-content: center;
+         flex-flow: column;
+         align-items:center;
+          background-size: cover;
+         }
+		 .IT-grid3{ 
+		  background-image: url("images/desert.jpg");
+         border: 1px solid 	#9ea8a6;
+         height:370px;
+		 width:370px;
+         display:flex;
+         justify-content: center;
+         flex-flow: column;
+         align-items:center;
+          background-size: cover;
+         }
+		  .IT-grid4{ 
+		  background-image: url("images/cocktail.jpg");
+         border: 1px solid 	#9ea8a6;
+         height:370px;
+		 width:370px;
+         display:flex;
+         justify-content: center;
+         flex-flow: column;
+         align-items:center;
+          background-size: cover;
+         }
+		  .IT-grid5{ 
+		  background-image: url("images/cocktails.jpg");
+         border: 1px solid 	#9ea8a6;
+         height:370px;
+		 width:370px;
+         display:flex;
+         justify-content: center;
+         flex-flow: column;
+         align-items:center;
+          background-size: cover;
+         }
+		
+   .IT-grid1 h5{
+   color:tomato;
+   margin-top:400px;
+   
+  
+   }
+   .IT-grid2 h5{
+   color:tomato;
+   margin-top:400px;
+   
+  
+   }
+   .IT-grid3 h5{
+   color:tomato;
+   margin-top:400px;
+  
+   }
+  
+ .IT-grid4 h5{
+   color:tomato;
+   margin-top:400px;
+  
+   }
+    .IT-grid5 h5{
+   color:tomato;
+   margin-top:400px;
+  
+   }
+
+
+ 
+      .footer{
+display:grid;
+grid-template-rows: 4fr 1fr;
+background-color: tomato;
+height:108px;
+
+}
+.footer1{
+display:grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+padding: 25px 60px 15px 60px; 
+}
+
+.footer li{
+line-height: 2.2rem;
+}
+
+.footer2{
+display:flex;
+color:whitesmoke;
+}
+.footer2 ul{
+display:flex;
+flex-flow: row;
+padding:0 45px 0 70px;
+}
+.footer2-logo{
+  margin: 20px 0 0 100px;
+}
+.footer2-text li a{
+  border-right:1px solid black;
+  padding:0 5px 0 5px;
+  color:whitesmoke !important;
+}
+.footer2-text li{
+  padding:0 5px 0 5px ;
+}
+.footer2-social{
+  margin: 0px 0 0 200px;
+}
+.footer2-social li a{
+  border-right:1px solid black;
+  padding:0 5px 0 5px;
+  color:whitesmoke !important;
+}
+.footer2-social li{
+  padding:0 5px 0 5px ;
+}
+
+}
+
+</style>
+</head>
+<body>
+ <div class="mini-nav">
+
+      <ul>
+	<li> <i class="material-icons">phone</i></li>
+      <li> <a href="tel:441775712010">+44 1775712010</a></li>
+	  <li> <i class="material-icons">location_on</i></li>
+		<li><a href="https://www.google.com/maps/dir//Gurkha+Oven,+12+Sheep+Market,+Spalding+PE11+1BE,+UK/@52.787181,-0.154311,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4878037de3c7a321:0xe767bf79d377b61f!2m2!1d-0.1543111!2d52.787181?hl=en-US">DIRECTIONS</a></li> 
+		<div class="mini-navs"><ul>
+		<li> FOLLOW_US</li> 
+          <li><a href="mailto:info@gurkhaoven.com"> <i class="fa fa-google"></i></a></li>&nbsp;&nbsp;
+		 <li><a href="https://twitter.com/gurkhaoven"> <i class="fa fa-twitter"></i></a></li>&nbsp;&nbsp;
+		    <li><a href="https://www.facebook.com/Gurkhaoven1431"> <i class="fa fa-facebook"></i></a></li></ul>&nbsp;&nbsp;
+			</div>
+		  </ul>
+    </div>
+<div class="navbar">
+   <input type="checkbox" class="nav-toogle" id="nav-toogle">
+    <label for="nav-toogle"><i class="tiny material-icons">menu</i></label>
+  <ul class="navi">
+     <li><a href="index.html">HOME</a></li>
+        <li><a href="https://webshop.acepos.uk/id/dpnUBkfU">RESTAURANT</a></li>
+       <!-- <li><a href="menu.html">MENU</a></li>-->
+		 <li><a href="gallery.html">GALLERY</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+	<center><div class="more-button"><a href="book.html" class="waves-effect waves-light btn">BOOK NOW</a></div></center>
+    </ul>
+  <div class="nav">
+    <div class="brand-navs">	
+      <a href="index.html" class="brand-logo"><p><img src="images/logo.png" /></p></a>
+    <ul class="navs1">
+        <li><a href="index.html">HOME</a></li>
+        <li><a href="https://webshop.acepos.uk/id/dpnUBkfU">RESTAURANT</a></li>
+        <li><a href="menu.html">MENU</a></li>
+		 <li><a href="gallery.html">GALLERY</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+		<div class="more-button"><a href="book.html" class="waves-effect waves-light btn">BOOK NOW</a></div>
+      </ul>
+     
+    </div>
+  
+ </div>
+
+ <div class="big-text"><h1 class="animated fadeInRight">MENU</h1>
+  </div>
+  <div class="learn-more">
+    <div class="more-text"><p class="animated fadeInLeft" >Whatever your occasion, Gurkha-Oven makes it one to remember!</p></div>
+    
+  </div>
+  </div>
+
+  <div class="IT">
+    <div class="role-text"><center><h3>MENU</h3></center></div>
+      <center><h5>Our Nepalese inspired Menu offers an array of dishes to entice you.Click the link below to see our menu.</h5></center>
+	  <div class="more-button"><center><b><a class="waves-effect waves-light btn" href="Gurkha-Oven-Menu.pdf" download style = "margin-right: 25px">MAIN MENU</a><b>
+	  <a class="waves-effect waves-light btn" href="TakeAway.pdf " download>TAKE AWAY MENU</a></b></center></div>
+     <hr color="red" align="center" width="90%">  <div class="IT-grid">
+        <div class="IT-grid1">
+          <h5>À LA CARTE</h5>
+				
+				</div>
+      <div class="IT-grid2">
+          
+          <h5>GROUPS</h5>
+		
+			</div>
+         <div class="IT-grid3">
+          
+          <h5>DESSERT & COCKTAILS</h5>
+		</div></div>
+		     <div class="IT-grids">  <div class="IT-grid4">
+          
+          <h5>WINE LIST</h5>
+		
+		</div>
+ <div class="IT-grid5">
+          
+          <h5>COCKTAILS</h5>
+		
+		 </div>	</div>  
+       </div>
+        <div class="footer">
+            <div class="footer1">
+            
+              </div>
+              <div class="footer2">
+                <div class="footer2-logo">&copy; Gurkha-Oven</div>
+                <div class="footer2-text">
+                  <ul>
+                    <li><a href="#">Gurkha-Oven</a></li>
+                    <li><a href="#">terms of service</a></li>
+                    <li><a href="#">privacy policy</a></li>
+                    </ul>
+                </div>
+                <div class="footer2-social">
+                    <ul>
+                      <a  href="https://www.facebook.com/Gurkhaoven1431" class="waves-effect waves-light btn-floating social facebook">
+                                   <i class="fa fa-facebook"></i> Sign in with facebook</a>&nbsp;&nbsp;&nbsp;
+                       <a  href="https://twitter.com/gurkhaoven" class="waves-effect waves-light btn-floating social twitter">
+                          <i class="fa fa-twitter"></i> Sign in with twitter</a>&nbsp;&nbsp;&nbsp;
+                       <a href="mailto:info@gurkhaoven.com" class="waves-effect waves-light btn-floating social google">
+                         <i class="fa fa-google"></i> Sign in with google</a>
+                        </ul>
+                </div>
+                </div>      
+    
+   
+  </div>
+                
+   <!--Import jQuery before materialize.js-->
+ <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+<script>
+ 
+	 $(document).ready(function(){
+    $('.sidenav').sidenav();
+  });
+
+  $('.text h4').addClass('animated fadeInRight');
+   $('.text p').addClass('animated fadeInLeft');
+ 
+</script>
+</body>
+</html>

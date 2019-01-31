@@ -1,0 +1,2442 @@
+[04-Mar-2018 13:48:21 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pawanacharya19/public_html/mail_test.php on line 3525
+[04-Mar-2018 13:50:50 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pawanacharya19/public_html/mail_test.php on line 3525
+[04-Mar-2018 13:51:44 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pawanacharya19/public_html/mail_test.php on line 3525
+[04-Mar-2018 20:53:58 UTC] PHP Parse error:  syntax error, unexpected 'apikey' (T_STRING) in /home/pawanacharya19/public_html/contact.php on line 22
+[04-Mar-2018 20:54:09 UTC] PHP Parse error:  syntax error, unexpected 'apikey' (T_STRING) in /home/pawanacharya19/public_html/contact.php on line 22
+[04-Mar-2018 20:54:15 UTC] PHP Parse error:  syntax error, unexpected 'apikey' (T_STRING) in /home/pawanacharya19/public_html/contact.php on line 22
+[04-Mar-2018 20:54:20 UTC] PHP Parse error:  syntax error, unexpected 'apikey' (T_STRING) in /home/pawanacharya19/public_html/contact.php on line 22
+[04-Mar-2018 20:54:35 UTC] PHP Parse error:  syntax error, unexpected 'apikey' (T_STRING) in /home/pawanacharya19/public_html/contact.php on line 22
+[04-Mar-2018 20:54:37 UTC] PHP Parse error:  syntax error, unexpected 'apikey' (T_STRING) in /home/pawanacharya19/public_html/contact.php on line 22
+[04-Mar-2018 20:54:38 UTC] PHP Parse error:  syntax error, unexpected 'apikey' (T_STRING) in /home/pawanacharya19/public_html/contact.php on line 22
+[27-Jun-2018 13:31:37 UTC] SMTP ERROR: Failed to connect to server: Connection refused (111)
+[27-Jun-2018 13:31:37 UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[27-Jun-2018 13:31:51 UTC] SMTP ERROR: Failed to connect to server: Connection refused (111)
+[27-Jun-2018 13:31:51 UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[27-Jun-2018 13:33:14 UTC] SMTP ERROR: Failed to connect to server: Connection refused (111)
+[27-Jun-2018 13:33:14 UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[27-Jun-2018 13:39:49 UTC] SMTP ERROR: Failed to connect to server: Connection refused (111)
+[27-Jun-2018 13:39:49 UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[27-Jun-2018 13:45:41 UTC] SMTP ERROR: Failed to connect to server: Connection refused (111)
+[27-Jun-2018 13:45:41 UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[27-Jun-2018 13:46:36 UTC] SMTP ERROR: Failed to connect to server: Connection refused (111)
+[27-Jun-2018 13:46:36 UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[27-Jun-2018 14:05:16 UTC] SMTP ERROR: Failed to connect to server: Connection refused (111)
+[27-Jun-2018 14:05:16 UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[27-Jun-2018 14:11:24 UTC] PHP Notice:  Use of undefined constant none - assumed 'none' in /home/pawanacharya19/public_html/book.php on line 21
+[27-Jun-2018 14:11:24 UTC] PHP Notice:  Use of undefined constant none - assumed 'none' in /home/pawanacharya19/public_html/book.php on line 24
+[27-Jun-2018 14:11:29 UTC] SERVER -> CLIENT: 220-n3plcpnl0073.prod.ams3.secureserver.net ESMTP Exim 4.89_1 #1 Wed, 27 Jun 2018 07:11:29 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[27-Jun-2018 14:11:29 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:11:29 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello www.gurkhaoven.com [127.0.0.1]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250-STARTTLS
+250 HELP
+
+[27-Jun-2018 14:11:29 UTC] CLIENT -> SERVER: STARTTLS
+
+[27-Jun-2018 14:11:29 UTC] SERVER -> CLIENT: 220 TLS go ahead
+
+[27-Jun-2018 14:11:29 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:11:29 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello www.gurkhaoven.com [127.0.0.1]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250 HELP
+
+[27-Jun-2018 14:11:29 UTC] CLIENT -> SERVER: AUTH LOGIN
+
+[27-Jun-2018 14:11:29 UTC] SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+[27-Jun-2018 14:11:29 UTC] CLIENT -> SERVER: aW5mb0BndXJraGFvdmVuLmNvbQ==
+
+[27-Jun-2018 14:11:29 UTC] SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+[27-Jun-2018 14:11:29 UTC] CLIENT -> SERVER: S2F0aG1hbmR1MTQzMQ==
+
+[27-Jun-2018 14:11:31 UTC] SERVER -> CLIENT: 535 Incorrect authentication data
+
+[27-Jun-2018 14:11:31 UTC] SMTP ERROR: Password command failed: 535 Incorrect authentication data
+
+[27-Jun-2018 14:11:31 UTC] SMTP Error: Could not authenticate.
+[27-Jun-2018 14:11:31 UTC] CLIENT -> SERVER: QUIT
+
+[27-Jun-2018 14:11:31 UTC] SERVER -> CLIENT: 221 n3plcpnl0073.prod.ams3.secureserver.net closing connection
+
+[27-Jun-2018 14:11:31 UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[27-Jun-2018 14:11:48 UTC] PHP Notice:  Use of undefined constant none - assumed 'none' in /home/pawanacharya19/public_html/book.php on line 21
+[27-Jun-2018 14:11:48 UTC] PHP Notice:  Use of undefined constant none - assumed 'none' in /home/pawanacharya19/public_html/book.php on line 24
+[27-Jun-2018 14:11:53 UTC] SERVER -> CLIENT: 220-n3plcpnl0073.prod.ams3.secureserver.net ESMTP Exim 4.89_1 #1 Wed, 27 Jun 2018 07:11:53 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[27-Jun-2018 14:11:53 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:11:53 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello www.gurkhaoven.com [127.0.0.1]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250-STARTTLS
+250 HELP
+
+[27-Jun-2018 14:11:53 UTC] CLIENT -> SERVER: STARTTLS
+
+[27-Jun-2018 14:11:53 UTC] SERVER -> CLIENT: 220 TLS go ahead
+
+[27-Jun-2018 14:11:53 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:11:53 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello www.gurkhaoven.com [127.0.0.1]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250 HELP
+
+[27-Jun-2018 14:11:53 UTC] CLIENT -> SERVER: AUTH LOGIN
+
+[27-Jun-2018 14:11:53 UTC] SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+[27-Jun-2018 14:11:53 UTC] CLIENT -> SERVER: aW5mb0BndXJraGFvdmVuLmNvbQ==
+
+[27-Jun-2018 14:11:53 UTC] SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+[27-Jun-2018 14:11:53 UTC] CLIENT -> SERVER: S2F0aG1hbmR1MTQzMQ==
+
+[27-Jun-2018 14:11:55 UTC] SERVER -> CLIENT: 535 Incorrect authentication data
+
+[27-Jun-2018 14:11:55 UTC] SMTP ERROR: Password command failed: 535 Incorrect authentication data
+
+[27-Jun-2018 14:11:55 UTC] SMTP Error: Could not authenticate.
+[27-Jun-2018 14:11:55 UTC] CLIENT -> SERVER: QUIT
+
+[27-Jun-2018 14:11:55 UTC] SERVER -> CLIENT: 221 n3plcpnl0073.prod.ams3.secureserver.net closing connection
+
+[27-Jun-2018 14:11:55 UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[27-Jun-2018 14:12:07 UTC] PHP Notice:  Use of undefined constant none - assumed 'none' in /home/pawanacharya19/public_html/book.php on line 21
+[27-Jun-2018 14:12:07 UTC] PHP Notice:  Use of undefined constant none - assumed 'none' in /home/pawanacharya19/public_html/book.php on line 24
+[27-Jun-2018 14:12:12 UTC] SERVER -> CLIENT: 220-n3plcpnl0073.prod.ams3.secureserver.net ESMTP Exim 4.89_1 #1 Wed, 27 Jun 2018 07:12:12 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[27-Jun-2018 14:12:12 UTC] CLIENT -> SERVER: EHLO gurkhaoven.com
+
+[27-Jun-2018 14:12:12 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello gurkhaoven.com [127.0.0.1]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250-STARTTLS
+250 HELP
+
+[27-Jun-2018 14:12:12 UTC] CLIENT -> SERVER: STARTTLS
+
+[27-Jun-2018 14:12:12 UTC] SERVER -> CLIENT: 220 TLS go ahead
+
+[27-Jun-2018 14:12:12 UTC] CLIENT -> SERVER: EHLO gurkhaoven.com
+
+[27-Jun-2018 14:12:12 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello gurkhaoven.com [127.0.0.1]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250 HELP
+
+[27-Jun-2018 14:12:12 UTC] CLIENT -> SERVER: AUTH LOGIN
+
+[27-Jun-2018 14:12:12 UTC] SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+[27-Jun-2018 14:12:12 UTC] CLIENT -> SERVER: aW5mb0BndXJraGFvdmVuLmNvbQ==
+
+[27-Jun-2018 14:12:12 UTC] SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+[27-Jun-2018 14:12:12 UTC] CLIENT -> SERVER: S2F0aG1hbmR1MTQzMQ==
+
+[27-Jun-2018 14:12:14 UTC] SERVER -> CLIENT: 535 Incorrect authentication data
+
+[27-Jun-2018 14:12:14 UTC] SMTP ERROR: Password command failed: 535 Incorrect authentication data
+
+[27-Jun-2018 14:12:14 UTC] SMTP Error: Could not authenticate.
+[27-Jun-2018 14:12:14 UTC] CLIENT -> SERVER: QUIT
+
+[27-Jun-2018 14:12:14 UTC] SERVER -> CLIENT: 221 n3plcpnl0073.prod.ams3.secureserver.net closing connection
+
+[27-Jun-2018 14:12:14 UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[27-Jun-2018 14:12:35 UTC] PHP Notice:  Use of undefined constant none - assumed 'none' in /home/pawanacharya19/public_html/book.php on line 24
+[27-Jun-2018 14:12:40 UTC] SERVER -> CLIENT: 220-n3plcpnl0073.prod.ams3.secureserver.net ESMTP Exim 4.89_1 #1 Wed, 27 Jun 2018 07:12:40 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[27-Jun-2018 14:12:40 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:12:40 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello www.gurkhaoven.com [127.0.0.1]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250-STARTTLS
+250 HELP
+
+[27-Jun-2018 14:12:40 UTC] CLIENT -> SERVER: STARTTLS
+
+[27-Jun-2018 14:12:40 UTC] SERVER -> CLIENT: 220 TLS go ahead
+
+[27-Jun-2018 14:12:40 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:12:40 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello www.gurkhaoven.com [127.0.0.1]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250 HELP
+
+[27-Jun-2018 14:12:40 UTC] CLIENT -> SERVER: AUTH LOGIN
+
+[27-Jun-2018 14:12:40 UTC] SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+[27-Jun-2018 14:12:40 UTC] CLIENT -> SERVER: aW5mb0BndXJraGFvdmVuLmNvbQ==
+
+[27-Jun-2018 14:12:40 UTC] SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+[27-Jun-2018 14:12:40 UTC] CLIENT -> SERVER: S2F0aG1hbmR1MTQzMQ==
+
+[27-Jun-2018 14:12:42 UTC] SERVER -> CLIENT: 535 Incorrect authentication data
+
+[27-Jun-2018 14:12:42 UTC] SMTP ERROR: Password command failed: 535 Incorrect authentication data
+
+[27-Jun-2018 14:12:42 UTC] SMTP Error: Could not authenticate.
+[27-Jun-2018 14:12:42 UTC] CLIENT -> SERVER: QUIT
+
+[27-Jun-2018 14:12:42 UTC] SERVER -> CLIENT: 221 n3plcpnl0073.prod.ams3.secureserver.net closing connection
+
+[27-Jun-2018 14:12:42 UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[27-Jun-2018 14:13:52 UTC] SERVER -> CLIENT: 220-n3plcpnl0073.prod.ams3.secureserver.net ESMTP Exim 4.89_1 #1 Wed, 27 Jun 2018 07:13:52 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:13:52 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello www.gurkhaoven.com [127.0.0.1]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250-STARTTLS
+250 HELP
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: STARTTLS
+
+[27-Jun-2018 14:13:52 UTC] SERVER -> CLIENT: 220 TLS go ahead
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:13:52 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello www.gurkhaoven.com [127.0.0.1]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250 HELP
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: MAIL FROM:<gurkhaoven654321@gmail.com>
+
+[27-Jun-2018 14:13:52 UTC] SERVER -> CLIENT: 250 OK
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: RCPT TO:<info@gurkhaoven.com>
+
+[27-Jun-2018 14:13:52 UTC] SERVER -> CLIENT: 250 Accepted
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: RCPT TO:<ach1431rob@gmail.com>
+
+[27-Jun-2018 14:13:52 UTC] SERVER -> CLIENT: 250 Accepted
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: DATA
+
+[27-Jun-2018 14:13:52 UTC] SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: Date: Wed, 27 Jun 2018 14:13:47 +0000
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: To: info@gurkhaoven.com
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: From: PawanAcharya <gurkhaoven654321@gmail.com>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: Cc: ach1431rob@gmail.com
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: Reply-To: gurkhaoven654321@gmail.com
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: Subject: Booking Details
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: Message-ID: <43c0fa200bf85dae5258b229db70452e@www.gurkhaoven.com>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: MIME-Version: 1.0
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: <table table width='500' bgcolor='#CDD9F5' border='2' cellpadding='0'
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: cellspacing='0'> 
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER:  <tr>    <td><table width='500' border='0' cellspacing='0' cellpadding='8'>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 				<th colspan='2' bgcolor='#CDD9F5'><strong><font
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: color='#EE3705'>Reservations</font></strong></th>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 				<td  bgcolor='#FFFFDD'>FirstName :</td>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Pawan</td>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			  <tr>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>LastName :</td>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Acharya</td>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>E-mail : </td>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>gurkhaoven654321@gmail.com</td>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Phone Number :</td>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>7657</td>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			 
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Date : </td>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'></td>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Time : </td>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>07:41PM</td>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>No. of Person? : </td>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>8</td>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Notes(Optional) : </td>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'></td>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 			<table>
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: .
+
+[27-Jun-2018 14:13:52 UTC] SERVER -> CLIENT: 250 OK id=1fYBCi-00320V-5G
+
+[27-Jun-2018 14:13:52 UTC] CLIENT -> SERVER: QUIT
+
+[27-Jun-2018 14:13:52 UTC] SERVER -> CLIENT: 221 n3plcpnl0073.prod.ams3.secureserver.net closing connection
+
+[27-Jun-2018 07:19:27 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pawanacharya19/public_html/mail_test.php on line 3525
+[27-Jun-2018 07:21:12 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pawanacharya19/public_html/mail_test.php on line 3525
+[27-Jun-2018 07:23:32 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pawanacharya19/public_html/mail_test.php on line 3525
+[27-Jun-2018 14:36:50 UTC] SERVER -> CLIENT: 220-n3plcpnl0073.prod.ams3.secureserver.net ESMTP Exim 4.89_1 #1 Wed, 27 Jun 2018 07:36:50 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:36:50 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello ip-160-153-129-208.ip.secureserver.net [160.153.129.208]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250-STARTTLS
+250 HELP
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: STARTTLS
+
+[27-Jun-2018 14:36:50 UTC] SERVER -> CLIENT: 220 TLS go ahead
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:36:50 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello ip-160-153-129-208.ip.secureserver.net [160.153.129.208]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250 HELP
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: MAIL FROM:<pawan.acharya@suneratech.com>
+
+[27-Jun-2018 14:36:50 UTC] SERVER -> CLIENT: 250 OK
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: RCPT TO:<info@gurkhaoven.com>
+
+[27-Jun-2018 14:36:50 UTC] SERVER -> CLIENT: 250 Accepted
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: RCPT TO:<ach1431rob@gmail.com>
+
+[27-Jun-2018 14:36:50 UTC] SERVER -> CLIENT: 550-Please turn on SMTP Authentication in your mail client. 
+550-ip-160-153-129-208.ip.secureserver.net (www.gurkhaoven.com)
+550-[160.153.129.208]:37525 is not permitted to relay through this server
+550 without authentication.
+
+[27-Jun-2018 14:36:50 UTC] SMTP ERROR: RCPT TO command failed: 550-Please turn on SMTP Authentication in your mail client. 
+550-ip-160-153-129-208.ip.secureserver.net (www.gurkhaoven.com)
+550-[160.153.129.208]:37525 is not permitted to relay through this server
+550 without authentication.
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: DATA
+
+[27-Jun-2018 14:36:50 UTC] SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: Date: Wed, 27 Jun 2018 14:36:45 +0000
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: To: info@gurkhaoven.com
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: From: PawanAcharya <pawan.acharya@suneratech.com>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: Cc: ach1431rob@gmail.com
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: Reply-To: pawan.acharya@suneratech.com
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: Subject: Booking Details
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: Message-ID: <88a95fa5d6964ba1fabe69f5d5e365d3@www.gurkhaoven.com>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: MIME-Version: 1.0
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: <table table width='500' bgcolor='#CDD9F5' border='2' cellpadding='0'
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: cellspacing='0'> 
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER:  <tr>    <td><table width='500' border='0' cellspacing='0' cellpadding='8'>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 				<th colspan='2' bgcolor='#CDD9F5'><strong><font
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: color='#EE3705'>Reservations</font></strong></th>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 				<td  bgcolor='#FFFFDD'>FirstName :</td>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Pawan</td>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			  <tr>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>LastName :</td>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Acharya</td>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>E-mail : </td>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>pawan.acharya@suneratech.com</td>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Phone Number :</td>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>78678687687</td>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			 
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Date : </td>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>27 June, 2018</td>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Time : </td>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>08:06PM</td>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>No. of Person? : </td>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>9</td>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Notes(Optional) : </td>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'></td>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 			<table>
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: .
+
+[27-Jun-2018 14:36:50 UTC] SERVER -> CLIENT: 250 OK id=1fYBYw-003XAh-Io
+
+[27-Jun-2018 14:36:50 UTC] CLIENT -> SERVER: QUIT
+
+[27-Jun-2018 14:36:50 UTC] SERVER -> CLIENT: 221 n3plcpnl0073.prod.ams3.secureserver.net closing connection
+
+[27-Jun-2018 14:36:50 UTC] SMTP Error: The following recipients failed: ach1431rob@gmail.com: Please turn on SMTP Authentication in your mail client. 
+ip-160-153-129-208.ip.secureserver.net (www.gurkhaoven.com)
+[160.153.129.208]:37525 is not permitted to relay through this server
+without authentication.
+
+[27-Jun-2018 14:38:27 UTC] SERVER -> CLIENT: 220-n3plcpnl0073.prod.ams3.secureserver.net ESMTP Exim 4.89_1 #1 Wed, 27 Jun 2018 07:38:27 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:38:27 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello ip-160-153-129-208.ip.secureserver.net [160.153.129.208]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250-STARTTLS
+250 HELP
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: STARTTLS
+
+[27-Jun-2018 14:38:27 UTC] SERVER -> CLIENT: 220 TLS go ahead
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:38:27 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello ip-160-153-129-208.ip.secureserver.net [160.153.129.208]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250 HELP
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: MAIL FROM:<pawan.acharya@suneratech.com>
+
+[27-Jun-2018 14:38:27 UTC] SERVER -> CLIENT: 250 OK
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: RCPT TO:<info@gurkhaoven.com>
+
+[27-Jun-2018 14:38:27 UTC] SERVER -> CLIENT: 250 Accepted
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: RCPT TO:<ach1431rob@gmail.com>
+
+[27-Jun-2018 14:38:27 UTC] SERVER -> CLIENT: 550-Please turn on SMTP Authentication in your mail client. 
+550-ip-160-153-129-208.ip.secureserver.net (www.gurkhaoven.com)
+550-[160.153.129.208]:38042 is not permitted to relay through this server
+550 without authentication.
+
+[27-Jun-2018 14:38:27 UTC] SMTP ERROR: RCPT TO command failed: 550-Please turn on SMTP Authentication in your mail client. 
+550-ip-160-153-129-208.ip.secureserver.net (www.gurkhaoven.com)
+550-[160.153.129.208]:38042 is not permitted to relay through this server
+550 without authentication.
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: DATA
+
+[27-Jun-2018 14:38:27 UTC] SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: Date: Wed, 27 Jun 2018 14:38:22 +0000
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: To: info@gurkhaoven.com
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: From: PawanAcharya <pawan.acharya@suneratech.com>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: Cc: ach1431rob@gmail.com
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: Reply-To: pawan.acharya@suneratech.com
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: Subject: Booking Details
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: Message-ID: <ee22668f8e5f70dec4927738f3d7984a@www.gurkhaoven.com>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: MIME-Version: 1.0
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: <table table width='500' bgcolor='#CDD9F5' border='2' cellpadding='0'
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: cellspacing='0'> 
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER:  <tr>    <td><table width='500' border='0' cellspacing='0' cellpadding='8'>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 				<th colspan='2' bgcolor='#CDD9F5'><strong><font
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: color='#EE3705'>Reservations</font></strong></th>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 				<td  bgcolor='#FFFFDD'>FirstName :</td>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Pawan</td>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			  <tr>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>LastName :</td>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Acharya</td>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>E-mail : </td>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>pawan.acharya@suneratech.com</td>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Phone Number :</td>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>78678687687</td>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			 
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Date : </td>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'></td>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Time : </td>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>08:06PM</td>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>No. of Person? : </td>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>9</td>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Notes(Optional) : </td>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'></td>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 			<table>
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: .
+
+[27-Jun-2018 14:38:27 UTC] SERVER -> CLIENT: 250 OK id=1fYBaV-003ZJT-MP
+
+[27-Jun-2018 14:38:27 UTC] CLIENT -> SERVER: QUIT
+
+[27-Jun-2018 14:38:27 UTC] SERVER -> CLIENT: 221 n3plcpnl0073.prod.ams3.secureserver.net closing connection
+
+[27-Jun-2018 14:38:27 UTC] SMTP Error: The following recipients failed: ach1431rob@gmail.com: Please turn on SMTP Authentication in your mail client. 
+ip-160-153-129-208.ip.secureserver.net (www.gurkhaoven.com)
+[160.153.129.208]:38042 is not permitted to relay through this server
+without authentication.
+
+[27-Jun-2018 14:39:22 UTC] SERVER -> CLIENT: 220-n3plcpnl0073.prod.ams3.secureserver.net ESMTP Exim 4.89_1 #1 Wed, 27 Jun 2018 07:39:22 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:39:22 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello ip-160-153-129-208.ip.secureserver.net [160.153.129.208]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250-STARTTLS
+250 HELP
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: STARTTLS
+
+[27-Jun-2018 14:39:22 UTC] SERVER -> CLIENT: 220 TLS go ahead
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:39:22 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello ip-160-153-129-208.ip.secureserver.net [160.153.129.208]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250 HELP
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: MAIL FROM:<pawan.acharya@suneratech.com>
+
+[27-Jun-2018 14:39:22 UTC] SERVER -> CLIENT: 250 OK
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: RCPT TO:<info@gurkhaoven.com>
+
+[27-Jun-2018 14:39:22 UTC] SERVER -> CLIENT: 250 Accepted
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: RCPT TO:<ach1431rob@gmail.com>
+
+[27-Jun-2018 14:39:22 UTC] SERVER -> CLIENT: 550-Please turn on SMTP Authentication in your mail client. 
+550-ip-160-153-129-208.ip.secureserver.net (www.gurkhaoven.com)
+550-[160.153.129.208]:38228 is not permitted to relay through this server
+550 without authentication.
+
+[27-Jun-2018 14:39:22 UTC] SMTP ERROR: RCPT TO command failed: 550-Please turn on SMTP Authentication in your mail client. 
+550-ip-160-153-129-208.ip.secureserver.net (www.gurkhaoven.com)
+550-[160.153.129.208]:38228 is not permitted to relay through this server
+550 without authentication.
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: DATA
+
+[27-Jun-2018 14:39:22 UTC] SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: Date: Wed, 27 Jun 2018 14:39:17 +0000
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: To: info@gurkhaoven.com
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: From: PawanAcharya <pawan.acharya@suneratech.com>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: Cc: ach1431rob@gmail.com
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: Reply-To: pawan.acharya@suneratech.com
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: Subject: Booking Details
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: Message-ID: <c5b1d6019ab4b5b7126353b4f56d770b@www.gurkhaoven.com>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: MIME-Version: 1.0
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: <table table width='500' bgcolor='#CDD9F5' border='2' cellpadding='0'
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: cellspacing='0'> 
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER:  <tr>    <td><table width='500' border='0' cellspacing='0' cellpadding='8'>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 				<th colspan='2' bgcolor='#CDD9F5'><strong><font
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: color='#EE3705'>Reservations</font></strong></th>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 				<td  bgcolor='#FFFFDD'>FirstName :</td>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Pawan</td>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			  <tr>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>LastName :</td>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Acharya</td>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>E-mail : </td>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>pawan.acharya@suneratech.com</td>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Phone Number :</td>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>78678687687</td>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			 
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Date : </td>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'></td>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Time : </td>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>08:06PM</td>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>No. of Person? : </td>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>9</td>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Notes(Optional) : </td>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'></td>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 			<table>
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: .
+
+[27-Jun-2018 14:39:22 UTC] SERVER -> CLIENT: 250 OK id=1fYBbO-003afa-7d
+
+[27-Jun-2018 14:39:22 UTC] CLIENT -> SERVER: QUIT
+
+[27-Jun-2018 14:39:22 UTC] SERVER -> CLIENT: 221 n3plcpnl0073.prod.ams3.secureserver.net closing connection
+
+[27-Jun-2018 14:39:22 UTC] SMTP Error: The following recipients failed: ach1431rob@gmail.com: Please turn on SMTP Authentication in your mail client. 
+ip-160-153-129-208.ip.secureserver.net (www.gurkhaoven.com)
+[160.153.129.208]:38228 is not permitted to relay through this server
+without authentication.
+
+[27-Jun-2018 14:41:54 UTC] SERVER -> CLIENT: 220-n3plcpnl0073.prod.ams3.secureserver.net ESMTP Exim 4.89_1 #1 Wed, 27 Jun 2018 07:41:54 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:41:54 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello ip-160-153-129-208.ip.secureserver.net [160.153.129.208]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250-STARTTLS
+250 HELP
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: STARTTLS
+
+[27-Jun-2018 14:41:54 UTC] SERVER -> CLIENT: 220 TLS go ahead
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:41:54 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello ip-160-153-129-208.ip.secureserver.net [160.153.129.208]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250 HELP
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: MAIL FROM:<pawan.acharya@suneratech.com>
+
+[27-Jun-2018 14:41:54 UTC] SERVER -> CLIENT: 250 OK
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: RCPT TO:<info@gurkhaoven.com>
+
+[27-Jun-2018 14:41:54 UTC] SERVER -> CLIENT: 250 Accepted
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: RCPT TO:<ach1431rob@gmail.com>
+
+[27-Jun-2018 14:41:54 UTC] SERVER -> CLIENT: 550-Please turn on SMTP Authentication in your mail client. 
+550-ip-160-153-129-208.ip.secureserver.net (www.gurkhaoven.com)
+550-[160.153.129.208]:38871 is not permitted to relay through this server
+550 without authentication.
+
+[27-Jun-2018 14:41:54 UTC] SMTP ERROR: RCPT TO command failed: 550-Please turn on SMTP Authentication in your mail client. 
+550-ip-160-153-129-208.ip.secureserver.net (www.gurkhaoven.com)
+550-[160.153.129.208]:38871 is not permitted to relay through this server
+550 without authentication.
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: DATA
+
+[27-Jun-2018 14:41:54 UTC] SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: Date: Wed, 27 Jun 2018 14:41:48 +0000
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: To: info@gurkhaoven.com
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: From: PawanAcharya <pawan.acharya@suneratech.com>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: Cc: ach1431rob@gmail.com
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: Reply-To: pawan.acharya@suneratech.com
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: Subject: Booking Details
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: Message-ID: <aa8bde159efa879890221ddf2a4e5e4e@www.gurkhaoven.com>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: MIME-Version: 1.0
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: <table table width='500' bgcolor='#CDD9F5' border='2' cellpadding='0'
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: cellspacing='0'> 
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER:  <tr>    <td><table width='500' border='0' cellspacing='0' cellpadding='8'>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 				<th colspan='2' bgcolor='#CDD9F5'><strong><font
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: color='#EE3705'>Reservations</font></strong></th>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 				<td  bgcolor='#FFFFDD'>FirstName :</td>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Pawan</td>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			  <tr>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>LastName :</td>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Acharya</td>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>E-mail : </td>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>pawan.acharya@suneratech.com</td>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Phone Number :</td>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>78678687687</td>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			 
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Date : </td>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'></td>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Time : </td>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>08:06PM</td>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>No. of Person? : </td>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>9</td>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Notes(Optional) : </td>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'></td>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 			<table>
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: .
+
+[27-Jun-2018 14:41:54 UTC] SERVER -> CLIENT: 250 OK id=1fYBdq-003e8y-5B
+
+[27-Jun-2018 14:41:54 UTC] CLIENT -> SERVER: QUIT
+
+[27-Jun-2018 14:41:54 UTC] SERVER -> CLIENT: 221 n3plcpnl0073.prod.ams3.secureserver.net closing connection
+
+[27-Jun-2018 14:41:54 UTC] SMTP Error: The following recipients failed: ach1431rob@gmail.com: Please turn on SMTP Authentication in your mail client. 
+ip-160-153-129-208.ip.secureserver.net (www.gurkhaoven.com)
+[160.153.129.208]:38871 is not permitted to relay through this server
+without authentication.
+
+[27-Jun-2018 14:45:12 UTC] SERVER -> CLIENT: 220-n3plcpnl0073.prod.ams3.secureserver.net ESMTP Exim 4.89_1 #1 Wed, 27 Jun 2018 07:45:12 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[27-Jun-2018 14:45:12 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:45:12 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello ip-160-153-129-208.ip.secureserver.net [160.153.129.208]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250-STARTTLS
+250 HELP
+
+[27-Jun-2018 14:45:12 UTC] CLIENT -> SERVER: STARTTLS
+
+[27-Jun-2018 14:45:12 UTC] SERVER -> CLIENT: 220 TLS go ahead
+
+[27-Jun-2018 14:45:12 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:45:12 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello ip-160-153-129-208.ip.secureserver.net [160.153.129.208]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250 HELP
+
+[27-Jun-2018 14:45:12 UTC] CLIENT -> SERVER: MAIL FROM:<pawan.acharya@suneratech.com>
+
+[27-Jun-2018 14:45:13 UTC] SERVER -> CLIENT: 250 OK
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: RCPT TO:<info@gurkhaoven.com>
+
+[27-Jun-2018 14:45:13 UTC] SERVER -> CLIENT: 250 Accepted
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: RCPT TO:<ach1431rob@gmail.com>
+
+[27-Jun-2018 14:45:13 UTC] SERVER -> CLIENT: 550-Please turn on SMTP Authentication in your mail client. 
+550-ip-160-153-129-208.ip.secureserver.net (www.gurkhaoven.com)
+550-[160.153.129.208]:39746 is not permitted to relay through this server
+550 without authentication.
+
+[27-Jun-2018 14:45:13 UTC] SMTP ERROR: RCPT TO command failed: 550-Please turn on SMTP Authentication in your mail client. 
+550-ip-160-153-129-208.ip.secureserver.net (www.gurkhaoven.com)
+550-[160.153.129.208]:39746 is not permitted to relay through this server
+550 without authentication.
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: DATA
+
+[27-Jun-2018 14:45:13 UTC] SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: Date: Wed, 27 Jun 2018 14:45:07 +0000
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: To: info@gurkhaoven.com
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: From: PawanAcharya <pawan.acharya@suneratech.com>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: Cc: ach1431rob@gmail.com
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: Reply-To: pawan.acharya@suneratech.com
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: Subject: Booking Details
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: Message-ID: <44161a1e244e8faadf866810c5c0ff19@www.gurkhaoven.com>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: MIME-Version: 1.0
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: <table table width='500' bgcolor='#CDD9F5' border='2' cellpadding='0'
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: cellspacing='0'> 
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER:  <tr>    <td><table width='500' border='0' cellspacing='0' cellpadding='8'>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 				<th colspan='2' bgcolor='#CDD9F5'><strong><font
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: color='#EE3705'>Reservations</font></strong></th>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 				<td  bgcolor='#FFFFDD'>FirstName :</td>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Pawan</td>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			  <tr>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>LastName :</td>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Acharya</td>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>E-mail : </td>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>pawan.acharya@suneratech.com</td>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Phone Number :</td>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>78678687687</td>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			 
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Date : </td>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'></td>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Time : </td>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>08:06PM</td>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>No. of Person? : </td>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>9</td>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Notes(Optional) : </td>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'></td>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 			<table>
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: .
+
+[27-Jun-2018 14:45:13 UTC] SERVER -> CLIENT: 250 OK id=1fYBh3-003ip9-1C
+
+[27-Jun-2018 14:45:13 UTC] CLIENT -> SERVER: QUIT
+
+[27-Jun-2018 14:45:13 UTC] SERVER -> CLIENT: 221 n3plcpnl0073.prod.ams3.secureserver.net closing connection
+
+[27-Jun-2018 14:45:13 UTC] SMTP Error: The following recipients failed: ach1431rob@gmail.com: Please turn on SMTP Authentication in your mail client. 
+ip-160-153-129-208.ip.secureserver.net (www.gurkhaoven.com)
+[160.153.129.208]:39746 is not permitted to relay through this server
+without authentication.
+
+[27-Jun-2018 14:45:47 UTC] SERVER -> CLIENT: 220-n3plcpnl0073.prod.ams3.secureserver.net ESMTP Exim 4.89_1 #1 Wed, 27 Jun 2018 07:45:47 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:45:47 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello ip-160-153-129-208.ip.secureserver.net [160.153.129.208]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250-STARTTLS
+250 HELP
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: STARTTLS
+
+[27-Jun-2018 14:45:47 UTC] SERVER -> CLIENT: 220 TLS go ahead
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:45:47 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello ip-160-153-129-208.ip.secureserver.net [160.153.129.208]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250 HELP
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: MAIL FROM:<pawan.acharya@suneratech.com>
+
+[27-Jun-2018 14:45:47 UTC] SERVER -> CLIENT: 250 OK
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: RCPT TO:<info@gurkhaoven.com>
+
+[27-Jun-2018 14:45:47 UTC] SERVER -> CLIENT: 250 Accepted
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: RCPT TO:<ach1431rob@gmail.com>
+
+[27-Jun-2018 14:45:47 UTC] SERVER -> CLIENT: 550-Please turn on SMTP Authentication in your mail client. 
+550-ip-160-153-129-208.ip.secureserver.net (www.gurkhaoven.com)
+550-[160.153.129.208]:39933 is not permitted to relay through this server
+550 without authentication.
+
+[27-Jun-2018 14:45:47 UTC] SMTP ERROR: RCPT TO command failed: 550-Please turn on SMTP Authentication in your mail client. 
+550-ip-160-153-129-208.ip.secureserver.net (www.gurkhaoven.com)
+550-[160.153.129.208]:39933 is not permitted to relay through this server
+550 without authentication.
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: DATA
+
+[27-Jun-2018 14:45:47 UTC] SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: Date: Wed, 27 Jun 2018 14:45:42 +0000
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: To: info@gurkhaoven.com
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: From: PawanAcharya <pawan.acharya@suneratech.com>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: Cc: ach1431rob@gmail.com
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: Reply-To: pawan.acharya@suneratech.com
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: Subject: Booking Details
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: Message-ID: <7bb1a280ab9f32886179ce1e97a6e447@www.gurkhaoven.com>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: MIME-Version: 1.0
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: <table table width='500' bgcolor='#CDD9F5' border='2' cellpadding='0'
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: cellspacing='0'> 
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER:  <tr>    <td><table width='500' border='0' cellspacing='0' cellpadding='8'>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 				<th colspan='2' bgcolor='#CDD9F5'><strong><font
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: color='#EE3705'>Reservations</font></strong></th>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 				<td  bgcolor='#FFFFDD'>FirstName :</td>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Pawan</td>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			  <tr>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>LastName :</td>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Acharya</td>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>E-mail : </td>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>pawan.acharya@suneratech.com</td>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Phone Number :</td>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>78678687687</td>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			 
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Date : </td>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'></td>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Time : </td>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>08:06PM</td>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>No. of Person? : </td>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>9</td>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Notes(Optional) : </td>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'></td>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 			<table>
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: .
+
+[27-Jun-2018 14:45:47 UTC] SERVER -> CLIENT: 250 OK id=1fYBhb-003jV7-PU
+
+[27-Jun-2018 14:45:47 UTC] CLIENT -> SERVER: QUIT
+
+[27-Jun-2018 14:45:47 UTC] SERVER -> CLIENT: 221 n3plcpnl0073.prod.ams3.secureserver.net closing connection
+
+[27-Jun-2018 14:45:47 UTC] SMTP Error: The following recipients failed: ach1431rob@gmail.com: Please turn on SMTP Authentication in your mail client. 
+ip-160-153-129-208.ip.secureserver.net (www.gurkhaoven.com)
+[160.153.129.208]:39933 is not permitted to relay through this server
+without authentication.
+
+[27-Jun-2018 14:46:58 UTC] SERVER -> CLIENT: 220-n3plcpnl0073.prod.ams3.secureserver.net ESMTP Exim 4.89_1 #1 Wed, 27 Jun 2018 07:46:58 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:46:58 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello ip-160-153-129-208.ip.secureserver.net [160.153.129.208]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250-STARTTLS
+250 HELP
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: STARTTLS
+
+[27-Jun-2018 14:46:58 UTC] SERVER -> CLIENT: 220 TLS go ahead
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:46:58 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello ip-160-153-129-208.ip.secureserver.net [160.153.129.208]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250 HELP
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: MAIL FROM:<pawan.acharya@suneratech.com>
+
+[27-Jun-2018 14:46:58 UTC] SERVER -> CLIENT: 250 OK
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: RCPT TO:<info@gurkhaoven.com>
+
+[27-Jun-2018 14:46:58 UTC] SERVER -> CLIENT: 250 Accepted
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: RCPT TO:<ach1431rob@gmail.com>
+
+[27-Jun-2018 14:46:58 UTC] SERVER -> CLIENT: 550-Please turn on SMTP Authentication in your mail client. 
+550-ip-160-153-129-208.ip.secureserver.net (www.gurkhaoven.com)
+550-[160.153.129.208]:40225 is not permitted to relay through this server
+550 without authentication.
+
+[27-Jun-2018 14:46:58 UTC] SMTP ERROR: RCPT TO command failed: 550-Please turn on SMTP Authentication in your mail client. 
+550-ip-160-153-129-208.ip.secureserver.net (www.gurkhaoven.com)
+550-[160.153.129.208]:40225 is not permitted to relay through this server
+550 without authentication.
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: DATA
+
+[27-Jun-2018 14:46:58 UTC] SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: Date: Wed, 27 Jun 2018 14:46:53 +0000
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: To: info@gurkhaoven.com
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: From: PawanAcharya <pawan.acharya@suneratech.com>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: Cc: ach1431rob@gmail.com
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: Reply-To: pawan.acharya@suneratech.com
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: Subject: Booking Details
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: Message-ID: <62e18857532e4b206e51cc6cf453a3df@www.gurkhaoven.com>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: MIME-Version: 1.0
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: <table table width='500' bgcolor='#CDD9F5' border='2' cellpadding='0'
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: cellspacing='0'> 
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER:  <tr>    <td><table width='500' border='0' cellspacing='0' cellpadding='8'>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 				<th colspan='2' bgcolor='#CDD9F5'><strong><font
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: color='#EE3705'>Reservations</font></strong></th>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 				<td  bgcolor='#FFFFDD'>FirstName :</td>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Pawan</td>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			  <tr>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>LastName :</td>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Acharya</td>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>E-mail : </td>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>pawan.acharya@suneratech.com</td>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Phone Number :</td>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>78678687687</td>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			 
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Date : </td>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>27 June, 2018</td>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Time : </td>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>08:06PM</td>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>No. of Person? : </td>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>9</td>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Notes(Optional) : </td>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'></td>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 			<table>
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: .
+
+[27-Jun-2018 14:46:58 UTC] SERVER -> CLIENT: 250 OK id=1fYBik-003ktV-Qa
+
+[27-Jun-2018 14:46:58 UTC] CLIENT -> SERVER: QUIT
+
+[27-Jun-2018 14:46:58 UTC] SERVER -> CLIENT: 221 n3plcpnl0073.prod.ams3.secureserver.net closing connection
+
+[27-Jun-2018 14:46:58 UTC] SMTP Error: The following recipients failed: ach1431rob@gmail.com: Please turn on SMTP Authentication in your mail client. 
+ip-160-153-129-208.ip.secureserver.net (www.gurkhaoven.com)
+[160.153.129.208]:40225 is not permitted to relay through this server
+without authentication.
+
+[27-Jun-2018 14:47:33 UTC] SERVER -> CLIENT: 220-n3plcpnl0073.prod.ams3.secureserver.net ESMTP Exim 4.89_1 #1 Wed, 27 Jun 2018 07:47:33 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:47:33 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello www.gurkhaoven.com [127.0.0.1]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250-STARTTLS
+250 HELP
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: STARTTLS
+
+[27-Jun-2018 14:47:33 UTC] SERVER -> CLIENT: 220 TLS go ahead
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:47:33 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello www.gurkhaoven.com [127.0.0.1]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250 HELP
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: MAIL FROM:<pawan.acharya@suneratech.com>
+
+[27-Jun-2018 14:47:33 UTC] SERVER -> CLIENT: 250 OK
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: RCPT TO:<info@gurkhaoven.com>
+
+[27-Jun-2018 14:47:33 UTC] SERVER -> CLIENT: 250 Accepted
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: RCPT TO:<ach1431rob@gmail.com>
+
+[27-Jun-2018 14:47:33 UTC] SERVER -> CLIENT: 250 Accepted
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: DATA
+
+[27-Jun-2018 14:47:33 UTC] SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: Date: Wed, 27 Jun 2018 14:47:28 +0000
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: To: info@gurkhaoven.com
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: From: PawanAcharya <pawan.acharya@suneratech.com>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: Cc: ach1431rob@gmail.com
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: Reply-To: pawan.acharya@suneratech.com
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: Subject: Booking Details
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: Message-ID: <b55d52de89e7f2398e3f6a752673fbeb@www.gurkhaoven.com>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: MIME-Version: 1.0
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: <table table width='500' bgcolor='#CDD9F5' border='2' cellpadding='0'
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: cellspacing='0'> 
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER:  <tr>    <td><table width='500' border='0' cellspacing='0' cellpadding='8'>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 				<th colspan='2' bgcolor='#CDD9F5'><strong><font
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: color='#EE3705'>Reservations</font></strong></th>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 				<td  bgcolor='#FFFFDD'>FirstName :</td>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Pawan</td>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			  <tr>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>LastName :</td>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Acharya</td>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>E-mail : </td>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>pawan.acharya@suneratech.com</td>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Phone Number :</td>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>78678687687</td>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			 
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Date : </td>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'></td>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Time : </td>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>08:06PM</td>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>No. of Person? : </td>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>9</td>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Notes(Optional) : </td>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'></td>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 			<table>
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: .
+
+[27-Jun-2018 14:47:33 UTC] SERVER -> CLIENT: 250 OK id=1fYBjJ-003laL-IP
+
+[27-Jun-2018 14:47:33 UTC] CLIENT -> SERVER: QUIT
+
+[27-Jun-2018 14:47:33 UTC] SERVER -> CLIENT: 221 n3plcpnl0073.prod.ams3.secureserver.net closing connection
+
+[27-Jun-2018 14:51:39 UTC] SERVER -> CLIENT: 220-n3plcpnl0073.prod.ams3.secureserver.net ESMTP Exim 4.89_1 #1 Wed, 27 Jun 2018 07:51:39 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:51:39 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello www.gurkhaoven.com [127.0.0.1]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250-STARTTLS
+250 HELP
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: STARTTLS
+
+[27-Jun-2018 14:51:39 UTC] SERVER -> CLIENT: 220 TLS go ahead
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:51:39 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello www.gurkhaoven.com [127.0.0.1]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250 HELP
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: MAIL FROM:<pawan.acharya@suneratech.com>
+
+[27-Jun-2018 14:51:39 UTC] SERVER -> CLIENT: 250 OK
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: RCPT TO:<info@gurkhaoven.com>
+
+[27-Jun-2018 14:51:39 UTC] SERVER -> CLIENT: 250 Accepted
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: RCPT TO:<pawan.acharya@suneratech.com>
+
+[27-Jun-2018 14:51:39 UTC] SERVER -> CLIENT: 250 Accepted
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: RCPT TO:<ach1431rob@gmail.com>
+
+[27-Jun-2018 14:51:39 UTC] SERVER -> CLIENT: 250 Accepted
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: DATA
+
+[27-Jun-2018 14:51:39 UTC] SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: Date: Wed, 27 Jun 2018 14:51:34 +0000
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: To: info@gurkhaoven.com, pawan.acharya@suneratech.com
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: From: PawanAcharya <pawan.acharya@suneratech.com>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: Cc: ach1431rob@gmail.com
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: Reply-To: pawan.acharya@suneratech.com
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: Subject: Booking Details
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: Message-ID: <d6d091c53cef269b90c4208bed941403@www.gurkhaoven.com>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: MIME-Version: 1.0
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: <table table width='500' bgcolor='#CDD9F5' border='2' cellpadding='0'
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: cellspacing='0'> 
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER:  <tr>    <td><table width='500' border='0' cellspacing='0' cellpadding='8'>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 				<th colspan='2' bgcolor='#CDD9F5'><strong><font
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: color='#EE3705'>Reservations</font></strong></th>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 				<td  bgcolor='#FFFFDD'>FirstName :</td>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Pawan</td>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			  <tr>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>LastName :</td>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Acharya</td>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>E-mail : </td>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>pawan.acharya@suneratech.com</td>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Phone Number :</td>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>78678687687</td>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			 
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Date : </td>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>27 June, 2018</td>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Time : </td>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>08:06PM</td>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>No. of Person? : </td>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>9</td>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Notes(Optional) : </td>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'></td>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 			<table>
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: .
+
+[27-Jun-2018 14:51:39 UTC] SERVER -> CLIENT: 250 OK id=1fYBnH-003rZq-PC
+
+[27-Jun-2018 14:51:39 UTC] CLIENT -> SERVER: QUIT
+
+[27-Jun-2018 14:51:39 UTC] SERVER -> CLIENT: 221 n3plcpnl0073.prod.ams3.secureserver.net closing connection
+
+[27-Jun-2018 14:56:39 UTC] SERVER -> CLIENT: 220-n3plcpnl0073.prod.ams3.secureserver.net ESMTP Exim 4.89_1 #1 Wed, 27 Jun 2018 07:56:39 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[27-Jun-2018 14:56:39 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:56:39 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello www.gurkhaoven.com [127.0.0.1]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250-STARTTLS
+250 HELP
+
+[27-Jun-2018 14:56:39 UTC] CLIENT -> SERVER: STARTTLS
+
+[27-Jun-2018 14:56:39 UTC] SERVER -> CLIENT: 220 TLS go ahead
+
+[27-Jun-2018 14:56:39 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:56:39 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello www.gurkhaoven.com [127.0.0.1]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250 HELP
+
+[27-Jun-2018 14:56:39 UTC] CLIENT -> SERVER: AUTH LOGIN
+
+[27-Jun-2018 14:56:39 UTC] SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+[27-Jun-2018 14:56:39 UTC] CLIENT -> SERVER: aW5mb0BndXJraGFvdmVuLmNvbQ==
+
+[27-Jun-2018 14:56:39 UTC] SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+[27-Jun-2018 14:56:39 UTC] CLIENT -> SERVER: S2F0aG1hbmR1MTQzMQ==
+
+[27-Jun-2018 14:56:41 UTC] SERVER -> CLIENT: 535 Incorrect authentication data
+
+[27-Jun-2018 14:56:41 UTC] SMTP ERROR: Password command failed: 535 Incorrect authentication data
+
+[27-Jun-2018 14:56:41 UTC] SMTP Error: Could not authenticate.
+[27-Jun-2018 14:56:41 UTC] CLIENT -> SERVER: QUIT
+
+[27-Jun-2018 14:56:41 UTC] SERVER -> CLIENT: 221 n3plcpnl0073.prod.ams3.secureserver.net closing connection
+
+[27-Jun-2018 14:56:41 UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[27-Jun-2018 14:59:43 UTC] SERVER -> CLIENT: 220-n3plcpnl0073.prod.ams3.secureserver.net ESMTP Exim 4.89_1 #1 Wed, 27 Jun 2018 07:59:43 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:59:43 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello www.gurkhaoven.com [127.0.0.1]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250-STARTTLS
+250 HELP
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: STARTTLS
+
+[27-Jun-2018 14:59:43 UTC] SERVER -> CLIENT: 220 TLS go ahead
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 14:59:43 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello www.gurkhaoven.com [127.0.0.1]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250 HELP
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: MAIL FROM:<pawan.acharya@suneratech.com>
+
+[27-Jun-2018 14:59:43 UTC] SERVER -> CLIENT: 250 OK
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: RCPT TO:<info@gurkhaoven.com>
+
+[27-Jun-2018 14:59:43 UTC] SERVER -> CLIENT: 250 Accepted
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: RCPT TO:<ach1431rob@gmail.com>
+
+[27-Jun-2018 14:59:43 UTC] SERVER -> CLIENT: 250 Accepted
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: DATA
+
+[27-Jun-2018 14:59:43 UTC] SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: Date: Wed, 27 Jun 2018 14:59:38 +0000
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: To: info@gurkhaoven.com
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: From: PawanAcharya <pawan.acharya@suneratech.com>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: Cc: ach1431rob@gmail.com
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: Reply-To: pawan.acharya@suneratech.com
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: Subject: Booking Details
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: Message-ID: <7dd9706546faf005f0c291b6311df17e@www.gurkhaoven.com>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: MIME-Version: 1.0
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: <table table width='500' bgcolor='#CDD9F5' border='2' cellpadding='0'
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: cellspacing='0'> 
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER:  <tr>    <td><table width='500' border='0' cellspacing='0' cellpadding='8'>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 				<th colspan='2' bgcolor='#CDD9F5'><strong><font
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: color='#EE3705'>Reservations</font></strong></th>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 				<td  bgcolor='#FFFFDD'>FirstName :</td>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Pawan</td>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			  <tr>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>LastName :</td>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Acharya</td>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>E-mail : </td>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>pawan.acharya@suneratech.com</td>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Phone Number :</td>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>78678687687</td>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			 
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Date : </td>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>27 June, 2018</td>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Time : </td>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>08:06PM</td>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>No. of Person? : </td>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>9</td>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Notes(Optional) : </td>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'></td>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 			<table>
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: .
+
+[27-Jun-2018 14:59:43 UTC] SERVER -> CLIENT: 250 OK id=1fYBv5-0042eQ-ST
+
+[27-Jun-2018 14:59:43 UTC] CLIENT -> SERVER: QUIT
+
+[27-Jun-2018 14:59:43 UTC] SERVER -> CLIENT: 221 n3plcpnl0073.prod.ams3.secureserver.net closing connection
+
+[27-Jun-2018 08:01:48 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pawanacharya19/public_html/mail_test.php on line 3525
+[27-Jun-2018 08:03:17 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pawanacharya19/public_html/mail_test.php on line 3525
+[27-Jun-2018 08:04:39 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pawanacharya19/public_html/mail_test.php on line 3525
+[27-Jun-2018 08:13:15 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pawanacharya19/public_html/mail_test.php on line 3525
+[27-Jun-2018 15:17:27 UTC] SERVER -> CLIENT: 220-n3plcpnl0073.prod.ams3.secureserver.net ESMTP Exim 4.89_1 #1 Wed, 27 Jun 2018 08:17:27 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[27-Jun-2018 15:17:27 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 15:17:27 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello www.gurkhaoven.com [127.0.0.1]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250-STARTTLS
+250 HELP
+
+[27-Jun-2018 15:17:27 UTC] CLIENT -> SERVER: STARTTLS
+
+[27-Jun-2018 15:17:27 UTC] SERVER -> CLIENT: 220 TLS go ahead
+
+[27-Jun-2018 15:17:27 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.prod.ams3.secureserver.net' did not match expected CN=`localhost' in /home/pawanacharya19/public_html/PHPMailer/class.smtp.php on line 343
+[27-Jun-2018 15:17:27 UTC] SMTP Error: Could not connect to SMTP host.
+[27-Jun-2018 15:17:27 UTC] CLIENT -> SERVER: QUIT
+
+[27-Jun-2018 15:17:27 UTC] SERVER -> CLIENT: 221 n3plcpnl0073.prod.ams3.secureserver.net closing connection
+
+[27-Jun-2018 15:17:27 UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[27-Jun-2018 15:17:59 UTC] SERVER -> CLIENT: 220-n3plcpnl0073.prod.ams3.secureserver.net ESMTP Exim 4.89_1 #1 Wed, 27 Jun 2018 08:17:59 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[27-Jun-2018 15:17:59 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 15:17:59 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello www.gurkhaoven.com [127.0.0.1]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250-STARTTLS
+250 HELP
+
+[27-Jun-2018 15:17:59 UTC] CLIENT -> SERVER: STARTTLS
+
+[27-Jun-2018 15:17:59 UTC] SERVER -> CLIENT: 220 TLS go ahead
+
+[27-Jun-2018 15:17:59 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.prod.ams3.secureserver.net' did not match expected CN=`localhost' in /home/pawanacharya19/public_html/PHPMailer/class.smtp.php on line 343
+[27-Jun-2018 15:17:59 UTC] SMTP Error: Could not connect to SMTP host.
+[27-Jun-2018 15:17:59 UTC] CLIENT -> SERVER: QUIT
+
+[27-Jun-2018 15:17:59 UTC] SERVER -> CLIENT: 221 n3plcpnl0073.prod.ams3.secureserver.net closing connection
+
+[27-Jun-2018 15:17:59 UTC] SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[27-Jun-2018 15:18:43 UTC] SERVER -> CLIENT: 220-n3plcpnl0073.prod.ams3.secureserver.net ESMTP Exim 4.89_1 #1 Wed, 27 Jun 2018 08:18:43 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 15:18:43 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello www.gurkhaoven.com [127.0.0.1]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250-STARTTLS
+250 HELP
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: STARTTLS
+
+[27-Jun-2018 15:18:43 UTC] SERVER -> CLIENT: 220 TLS go ahead
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: EHLO www.gurkhaoven.com
+
+[27-Jun-2018 15:18:43 UTC] SERVER -> CLIENT: 250-n3plcpnl0073.prod.ams3.secureserver.net Hello www.gurkhaoven.com [127.0.0.1]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-CHUNKING
+250 HELP
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: MAIL FROM:<dasdas@gmail.com>
+
+[27-Jun-2018 15:18:43 UTC] SERVER -> CLIENT: 250 OK
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: RCPT TO:<info@gurkhaoven.com>
+
+[27-Jun-2018 15:18:43 UTC] SERVER -> CLIENT: 250 Accepted
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: RCPT TO:<ach1431rob@gmail.com>
+
+[27-Jun-2018 15:18:43 UTC] SERVER -> CLIENT: 250 Accepted
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: DATA
+
+[27-Jun-2018 15:18:43 UTC] SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: Date: Wed, 27 Jun 2018 15:18:38 +0000
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: To: info@gurkhaoven.com
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: From: PawanAcharya <dasdas@gmail.com>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: Cc: ach1431rob@gmail.com
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: Reply-To: dasdas@gmail.com
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: Subject: Booking Details
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: Message-ID: <77da7333c6fe5af0ef206d295311116b@www.gurkhaoven.com>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: MIME-Version: 1.0
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: <table table width='500' bgcolor='#CDD9F5' border='2' cellpadding='0'
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: cellspacing='0'> 
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER:  <tr>    <td><table width='500' border='0' cellspacing='0' cellpadding='8'>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 				<th colspan='2' bgcolor='#CDD9F5'><strong><font
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: color='#EE3705'>Reservations</font></strong></th>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 				<td  bgcolor='#FFFFDD'>FirstName :</td>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Pawan</td>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			  <tr>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>LastName :</td>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Acharya</td>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>E-mail : </td>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>dasdas@gmail.com</td>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			 <tr>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>Phone Number :</td>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 				<td bgcolor='#FFFFDD'>876868686</td>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			 </tr>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			 
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Date : </td>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'></td>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Reservation Time : </td>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>08:47PM</td>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>No. of Person? : </td>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>7</td>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			<tr>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'>Notes(Optional) : </td>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			  <td bgcolor='#FFFFDD'></td>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			</tr>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 			<table>
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: 
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: .
+
+[27-Jun-2018 15:18:43 UTC] SERVER -> CLIENT: 250 OK id=1fYCDT-0004Md-9I
+
+[27-Jun-2018 15:18:43 UTC] CLIENT -> SERVER: QUIT
+
+[27-Jun-2018 15:18:43 UTC] SERVER -> CLIENT: 221 n3plcpnl0073.prod.ams3.secureserver.net closing connection
+
+[27-Jun-2018 08:25:42 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pawanacharya19/public_html/mail_test.php.mal on line 3525
+[27-Jun-2018 08:32:37 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pawanacharya19/public_html/mail_test.php on line 3525
+[27-Jun-2018 15:50:41 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/pawanacharya19/public_html/book.php on line 14
+[27-Jun-2018 15:50:47 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/pawanacharya19/public_html/book.php on line 14
+[27-Jun-2018 15:51:03 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/pawanacharya19/public_html/book.php on line 14
+[27-Jun-2018 15:51:57 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/pawanacharya19/public_html/book.php on line 22
+[27-Jun-2018 15:52:04 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/pawanacharya19/public_html/book.php on line 22
+[27-Jun-2018 15:52:07 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/pawanacharya19/public_html/book.php on line 22
